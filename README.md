@@ -3,9 +3,9 @@
 [![renovate](https://img.shields.io/badge/maintaied%20with-renovate-blue?logo=renovatebot)](https://app.renovatebot.com/dashboard)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/2rabs/nito-docs)
 
-# Project boilerplate
+# nito-docs
 
-Template for project creation.
+NITO's documentation site.
 
 ## Features
 

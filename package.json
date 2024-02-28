@@ -9,13 +9,25 @@
   },
   "type": "module",
   "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
     "clean": "git clean -xdf node_modules",
+    "preview": "astro preview",
+    "astro": "astro",
     "plop": "plop"
+  },
+  "dependencies": {
+    "@astrojs/check": "0.5.6",
+    "@astrojs/starlight": "0.20.1",
+    "astro": "4.4.5",
+    "sharp": "0.33.2"
   },
   "devDependencies": {
     "@commitlint/cli": "19.0.3",
     "@commitlint/config-conventional": "19.0.3",
     "husky": "9.0.11",
-    "plop": "4.0.1"
+    "plop": "4.0.1",
+    "typescript": "5.3.3"
   }
 }

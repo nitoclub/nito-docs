@@ -5,10 +5,10 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: {
-				github: 'https://github.com/withastro/starlight',
-			},
+      title: 'NITO Docs',
+      social: {
+        github: 'https://github.com/2rabs/nito-docs',
+      },
 			sidebar: [
 				{
 					label: 'Guides',

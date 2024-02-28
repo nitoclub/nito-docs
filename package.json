@@ -1,7 +1,7 @@
 {
-  "name": "@tatsutakein/project-boilerplate",
+  "name": "@2rabs/nito-docs",
   "version": "0.1.0",
-  "description": "Boilerplate at the time of my project creation.",
+  "description": "NITO's documentation site.",
   "license": "MIT",
   "author": {
     "name": "Ryo Takeuchi",

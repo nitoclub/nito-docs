@@ -1,11 +1,10 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![dependabot](https://img.shields.io/badge/maintaied_with-dependabot-blue?logo=dependabot)](https://docs.github.com/en/code-security/dependabot)
 [![renovate](https://img.shields.io/badge/maintaied%20with-renovate-blue?logo=renovatebot)](https://app.renovatebot.com/dashboard)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/tatsutakein/project-boilerplate)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/2rabs/nito-docs)
 
-# Project boilerplate
+# nito-docs
 
-Template for project creation.
+NITO's documentation site.
 
 ## Features
 
@@ -62,11 +61,15 @@ TBD
 
 Thanks to our wonderful contributors!
 
-<a href="https://github.com/tatsutakein/project-boilerplate/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tatsutakein/project-boilerplate" alt="Contributors" />
+<a href="https://github.com/2rabs/nito-docs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=2rabs/nito-docs" alt="Contributors" />
 </a>
+
+## Repo Activity
+
+![Repobeats](https://repobeats.axiom.co/api/embed/afec44d7ae1e867b6f245390f5cc3f5d2484e8b5.svg "Repobeats analytics image")
 
 ## License
 
-boilerplate is distributed under the terms of the MIT License. See the [license](LICENSE) for more
+nito-docs is distributed under the terms of the MIT License. See the [license](LICENSE) for more
 information.

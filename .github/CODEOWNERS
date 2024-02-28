@@ -1,1 +1,5 @@
-* @tatsutakein
+* @2rabs/nito-docs-maintainers
+
+/.github/ @tatsutakein
+/scripts/ @tatsutakein
+/tools/ @tatsutakein

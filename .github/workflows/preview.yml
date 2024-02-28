@@ -1,29 +1,25 @@
-name: 'Continuous Delivery'
+name: "Preview"
 
 on:
-  push:
+  pull_request:
     branches:
       - main
 
 concurrency:
-  group: cd-${{ github.ref }}
+  group: preview-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
-  deploy:
+  changed:
+    uses: ./.github/workflows/wc-changed.yml
+
+  preview:
     uses: ./.github/workflows/wc-deploy-cloudflare-pages.yml
     with:
-      branch: 'develop'
+      branch: 'preview'
       gh-app-id: ${{ vars.BOT_APP_ID }}
-      pr-comment-enabled: false
+      pr-comment-enabled: true
     secrets:
       cloudflare-account-id: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
       cloudflare-api-token: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-      gh-app-private-key: ${{ secrets.BOT_PRIVATE_KEY }}
-
-  release:
-    uses: ./.github/workflows/wc-release.yml
-    with:
-      gh-app-id: ${{ vars.BOT_APP_ID }}
-    secrets:
       gh-app-private-key: ${{ secrets.BOT_PRIVATE_KEY }}

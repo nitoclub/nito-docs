@@ -71,5 +71,5 @@ Thanks to our wonderful contributors!
 
 ## License
 
-boilerplate is distributed under the terms of the MIT License. See the [license](LICENSE) for more
+nito-docs is distributed under the terms of the MIT License. See the [license](LICENSE) for more
 information.

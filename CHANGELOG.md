@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/2rabs/nito-docs/compare/v0.2.1...v0.3.0) (2024-02-28)
+
+
+### Features
+
+* 最低限の情報を置き換え ([c132cf6](https://github.com/2rabs/nito-docs/commit/c132cf6656a68613ad80eaedfb394ffcf279dace))
+
 ## [0.2.1](https://github.com/2rabs/nito-docs/compare/v0.2.0...v0.2.1) (2024-02-28)
 
 

@@ -1,0 +1,24 @@
+name: Move new issues into Backlog
+
+on:
+  issues:
+    types: [ opened ]
+
+jobs:
+  add-to-project:
+    name: Add issue to project
+    runs-on: ubuntu-22.04
+    steps:
+      # https://github.com/marketplace/actions/create-github-app-token
+      - name: Create GitHub App Token
+        uses: actions/create-github-app-token@e8e39f73bb84fdf315a015fa3104f314c0a258b4 # v1.8.1
+        id: app-token
+        with:
+          app-id: ${{ vars.BOT_APP_ID }}
+          private-key: ${{ secrets.BOT_PRIVATE_KEY }}
+
+      # https://github.com/marketplace/actions/add-to-github-projects
+      - uses: actions/add-to-project@31b3f3ccdc584546fc445612dec3f38ff5edb41c # v0.5.0
+        with:
+          project-url: https://github.com/orgs/2rabs/projects/2
+          github-token: ${{ steps.app-token.outputs.token }}

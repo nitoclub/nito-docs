@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/2rabs/nito-docs/compare/v0.3.0...v0.4.0) (2024-03-01)
+
+
+### Features
+
+* プライバシーポリシーページを追加 ([ca15e6f](https://github.com/2rabs/nito-docs/commit/ca15e6fd4d45fcdf66dd710f5efb00f277ee2073))
+
 ## [0.3.0](https://github.com/2rabs/nito-docs/compare/v0.2.1...v0.3.0) (2024-02-28)
 
 

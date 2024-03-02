@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.4.1](https://github.com/2rabs/nito-docs/compare/v0.4.0...v0.4.1) (2024-03-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @astrojs/starlight to v0.21.0 ([a3d8c60](https://github.com/2rabs/nito-docs/commit/a3d8c607941ab2e17da30aa70e70eebfaf45a910))
+* **deps:** update dependency astro to v4.4.8 ([1918d59](https://github.com/2rabs/nito-docs/commit/1918d59a39ccaeec74c3510446e9a7aa3b66e77a))
+
 ## [0.4.0](https://github.com/2rabs/nito-docs/compare/v0.3.0...v0.4.0) (2024-03-01)
 
 

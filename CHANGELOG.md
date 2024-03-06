@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.4.2](https://github.com/2rabs/nito-docs/compare/v0.4.1...v0.4.2) (2024-03-06)
+
+
+### Bug Fixes
+
+* **actions:** wc-changed の outputs が正しく出力されるよう修正 ([0bb23d0](https://github.com/2rabs/nito-docs/commit/0bb23d07db4efc01fd587305a97b9e325da385cc))
+* **deps:** update dependency @astrojs/starlight to v0.21.1 ([71d4b50](https://github.com/2rabs/nito-docs/commit/71d4b501cd4cc65fe19b776b9a4f14f68a6fd9eb))
+* **deps:** update dependency astro to v4.4.11 ([da83829](https://github.com/2rabs/nito-docs/commit/da8382900cd1d199e113539589906bfcfc1b1785))
+
 ## [0.4.1](https://github.com/2rabs/nito-docs/compare/v0.4.0...v0.4.1) (2024-03-02)
 
 

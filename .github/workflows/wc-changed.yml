@@ -4,9 +4,9 @@ on:
   workflow_call:
     outputs:
       actions:
-        value: ${{ jobs.changes.outputs.actions }}
+        value: ${{ jobs.changed.outputs.actions }}
       docs:
-        value: ${{ jobs.changes.outputs.docs }}
+        value: ${{ jobs.changed.outputs.docs }}
 
 permissions:
   contents: read

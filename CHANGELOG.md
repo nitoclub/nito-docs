@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.4.3](https://github.com/nitoclub/nito-docs/compare/v0.4.2...v0.4.3) (2024-03-20)
+
+
+### Bug Fixes
+
+* **deps:** bun.lockb ([c16e2a3](https://github.com/nitoclub/nito-docs/commit/c16e2a309f3b8ea58fbfceeb075e7ae7feceed50))
+* **deps:** update dependency @astrojs/check to v0.5.9 ([07d4fe4](https://github.com/nitoclub/nito-docs/commit/07d4fe4e03f49bc2890d1513afc63918570addaf))
+* **deps:** update dependency astro to v4.5.4 ([74991ff](https://github.com/nitoclub/nito-docs/commit/74991ff7ec28b9446a43c2a223197e2a1d8fb8d4))
+* **deps:** update dependency astro to v4.5.5 ([cc9c97d](https://github.com/nitoclub/nito-docs/commit/cc9c97d7c262d73ec421cfea66321306e4e8dd79))
+* **deps:** update dependency astro to v4.5.6 ([9bdc9f1](https://github.com/nitoclub/nito-docs/commit/9bdc9f184b35dcd162a6aff974b9ea95892abb0e))
+
 ## [0.4.2](https://github.com/2rabs/nito-docs/compare/v0.4.1...v0.4.2) (2024-03-06)
 
 

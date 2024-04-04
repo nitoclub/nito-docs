@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.4.4](https://github.com/nitoclub/nito-docs/compare/v0.4.3...v0.4.4) (2024-04-04)
+
+
+### Bug Fixes
+
+* **deps:** bun.lockb ([faf95a4](https://github.com/nitoclub/nito-docs/commit/faf95a459e1451e8f463ccd48ff942faf2aac40a))
+* **deps:** update dependency @astrojs/check to v0.5.10 ([5d12e3d](https://github.com/nitoclub/nito-docs/commit/5d12e3d693134290a0e4b0634a4805335e08bc60))
+* **deps:** update dependency @astrojs/starlight to v0.21.2 ([68cb93d](https://github.com/nitoclub/nito-docs/commit/68cb93d2b3d391ee7bba33663b03fa5b00f9bbe0))
+* **deps:** update dependency @astrojs/starlight to v0.21.3 ([d6196b8](https://github.com/nitoclub/nito-docs/commit/d6196b802daabf15e6f61f4b513e173e72ceb1b4))
+* **deps:** update dependency astro to v4.5.12 ([c52b708](https://github.com/nitoclub/nito-docs/commit/c52b7084bcceef115ef76a28b7bbe96ea6f250d4))
+* **deps:** update dependency astro to v4.5.15 ([3f66599](https://github.com/nitoclub/nito-docs/commit/3f665993c42e9466ec9a18302274ea19646a8f4f))
+* **deps:** update dependency astro to v4.5.8 ([407c15f](https://github.com/nitoclub/nito-docs/commit/407c15ff2efccd522884ff66e5dc7189d28b39bc))
+* **deps:** update dependency astro to v4.5.9 ([f65e9d2](https://github.com/nitoclub/nito-docs/commit/f65e9d256dd9bf937fba7c75d44c1d73910c2a16))
+* **deps:** update dependency sharp to v0.33.3 ([b57a0bf](https://github.com/nitoclub/nito-docs/commit/b57a0bf492e6b4a34a12299807bd086f57db1523))
+
 ## [0.4.3](https://github.com/nitoclub/nito-docs/compare/v0.4.2...v0.4.3) (2024-03-20)
 
 

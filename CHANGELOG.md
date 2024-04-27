@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.4.5](https://github.com/nitoclub/nito-docs/compare/v0.4.4...v0.4.5) (2024-04-27)
+
+
+### Bug Fixes
+
+* **deps:** bun.lockb ([57cc753](https://github.com/nitoclub/nito-docs/commit/57cc7532a6de4dc8bb05c4cf4b71369207edd2c8))
+* **deps:** update dependency @astrojs/starlight to v0.21.4 ([0d3d1f8](https://github.com/nitoclub/nito-docs/commit/0d3d1f8d0560cdd78c4e738fdd64f527ed7dd398))
+* **deps:** update dependency @astrojs/starlight to v0.21.5 ([37ca490](https://github.com/nitoclub/nito-docs/commit/37ca4907f508d91392a3bc80c2019d8e64b09e08))
+* **deps:** update dependency astro to v4.5.16 ([d75cc6e](https://github.com/nitoclub/nito-docs/commit/d75cc6ee7b86ad6008c3d59d12dda5c157ce67ce))
+* **deps:** update dependency astro to v4.5.17 ([1f0dec4](https://github.com/nitoclub/nito-docs/commit/1f0dec42a1f04648fb053c7461bd33be2f8dce33))
+* **deps:** update dependency astro to v4.5.18 ([f7e98c9](https://github.com/nitoclub/nito-docs/commit/f7e98c98252ccd6698ac47e342fa9802c58a69b7))
+* **deps:** update dependency astro to v4.6.1 ([fbf6ac7](https://github.com/nitoclub/nito-docs/commit/fbf6ac7bc535bbb142beb025c2748552920a7e21))
+* **deps:** update dependency astro to v4.6.2 ([fbff2fd](https://github.com/nitoclub/nito-docs/commit/fbff2fd612023ad95c233f0af3e4ef703a666355))
+* **deps:** update dependency astro to v4.6.3 ([ff28bbb](https://github.com/nitoclub/nito-docs/commit/ff28bbb9206dab154a1c108d6c9eb911b82602e2))
+* **deps:** update dependency astro to v4.6.4 ([27ace5b](https://github.com/nitoclub/nito-docs/commit/27ace5b5d79e5fb282317aae9976e6d46bd51433))
+* **deps:** update dependency astro to v4.7.0 ([f1e0a0a](https://github.com/nitoclub/nito-docs/commit/f1e0a0a84fdedb746279a8024bf82f79fcbd1bd4))
+
 ## [0.4.4](https://github.com/nitoclub/nito-docs/compare/v0.4.3...v0.4.4) (2024-04-04)
 
 

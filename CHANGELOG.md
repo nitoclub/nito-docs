@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.4.6](https://github.com/nitoclub/nito-docs/compare/v0.4.5...v0.4.6) (2024-05-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @astrojs/check to v0.6.0 ([9168bed](https://github.com/nitoclub/nito-docs/commit/9168bed4188a8dadd6f35122af42c9f3880ea9bc))
+* **deps:** update dependency @astrojs/check to v0.7.0 ([c09bed4](https://github.com/nitoclub/nito-docs/commit/c09bed4d75c4acce66f5b2b135cfe6045d7709af))
+* **deps:** update dependency @astrojs/starlight to v0.22.0 ([93c85c2](https://github.com/nitoclub/nito-docs/commit/93c85c24c0aa7446123656629a32eba3b860caf8))
+* **deps:** update dependency @astrojs/starlight to v0.22.1 ([f68b44f](https://github.com/nitoclub/nito-docs/commit/f68b44f35c4336cbe697134882ba3edf8c91b16b))
+* **deps:** update dependency @astrojs/starlight to v0.22.2 ([5810f58](https://github.com/nitoclub/nito-docs/commit/5810f5858496f358251edc3ac0843671c36be32c))
+* **deps:** update dependency @astrojs/starlight to v0.22.3 ([cefb34c](https://github.com/nitoclub/nito-docs/commit/cefb34c38ac5f8781b3694aa0da81d4009a4f4ad))
+* **deps:** update dependency astro to v4.7.1 ([b2d2596](https://github.com/nitoclub/nito-docs/commit/b2d2596d77e3a0803736c2a1311c2667eba8081e))
+* **deps:** update dependency astro to v4.8.0 ([3fb80ae](https://github.com/nitoclub/nito-docs/commit/3fb80ae2970d6205330005639e2095950b45a748))
+* **deps:** update dependency astro to v4.8.1 ([c36e633](https://github.com/nitoclub/nito-docs/commit/c36e633ba8caeeacfdce1f2ab501051b87773206))
+* **deps:** update dependency astro to v4.8.2 ([62b54a1](https://github.com/nitoclub/nito-docs/commit/62b54a156e37e80297b241101d00a9bccb17ea7d))
+* **deps:** update dependency astro to v4.8.3 ([971e707](https://github.com/nitoclub/nito-docs/commit/971e70740dd7f30c96f968d66ea56592cbb102ca))
+* **deps:** update dependency astro to v4.8.4 ([e4af039](https://github.com/nitoclub/nito-docs/commit/e4af039becc53626633b81b487dd6ffa53901418))
+
 ## [0.4.5](https://github.com/nitoclub/nito-docs/compare/v0.4.4...v0.4.5) (2024-04-27)
 
 

@@ -21,7 +21,7 @@
     "@astrojs/check": "0.7.0",
     "@astrojs/starlight": "0.22.3",
     "astro": "4.8.4",
-    "sharp": "0.33.3"
+    "sharp": "0.33.4"
   },
   "devDependencies": {
     "@commitlint/cli": "19.3.0",

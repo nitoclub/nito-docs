@@ -1,5 +1,50 @@
 # Changelog
 
+## [0.4.7](https://github.com/nitoclub/nito-docs/compare/v0.4.6...v0.4.7) (2024-07-20)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @astrojs/check to v0.8.0 ([105ccf7](https://github.com/nitoclub/nito-docs/commit/105ccf754b961dc05a5852dd32670dacea62cb0f))
+* **deps:** update dependency @astrojs/check to v0.8.1 ([f9ba6ea](https://github.com/nitoclub/nito-docs/commit/f9ba6ead2a6332e3f719672fcbe991f36b9f1ecf))
+* **deps:** update dependency @astrojs/check to v0.8.2 ([db1eb12](https://github.com/nitoclub/nito-docs/commit/db1eb12c6c01961ae2737388ca6a64f090f3e8e4))
+* **deps:** update dependency @astrojs/starlight to v0.22.4 ([590f4c6](https://github.com/nitoclub/nito-docs/commit/590f4c6252839839e126bf0754a30fed7d2ddadd))
+* **deps:** update dependency @astrojs/starlight to v0.23.0 ([d0b0576](https://github.com/nitoclub/nito-docs/commit/d0b0576f42cae0f3eec22d4befb74554969439aa))
+* **deps:** update dependency @astrojs/starlight to v0.23.1 ([0570a56](https://github.com/nitoclub/nito-docs/commit/0570a56820a2707b034f88beeb95fb3b9d5ccf95))
+* **deps:** update dependency @astrojs/starlight to v0.23.2 ([1d019f2](https://github.com/nitoclub/nito-docs/commit/1d019f28aa9157ad58559fc18c6eb833cad9667c))
+* **deps:** update dependency @astrojs/starlight to v0.23.3 ([513ccd3](https://github.com/nitoclub/nito-docs/commit/513ccd3a0bd72a954eac78fded7c3ade43a8e6fc))
+* **deps:** update dependency @astrojs/starlight to v0.23.4 ([1db8b6e](https://github.com/nitoclub/nito-docs/commit/1db8b6e0923763e519f8f6916e444bb59e9927d8))
+* **deps:** update dependency @astrojs/starlight to v0.24.0 ([0f14f97](https://github.com/nitoclub/nito-docs/commit/0f14f9778f73a4a9601af539ee06dbbccc862647))
+* **deps:** update dependency @astrojs/starlight to v0.24.1 ([81d5ee3](https://github.com/nitoclub/nito-docs/commit/81d5ee39e3b892da907b593467136e11998d88cf))
+* **deps:** update dependency @astrojs/starlight to v0.24.2 ([6b25142](https://github.com/nitoclub/nito-docs/commit/6b251423ba43a1b44a95a8ab9565a06d39342b01))
+* **deps:** update dependency @astrojs/starlight to v0.24.3 ([00560f6](https://github.com/nitoclub/nito-docs/commit/00560f6e48f5b8c8f2321238a16651c1a68f75c3))
+* **deps:** update dependency @astrojs/starlight to v0.24.4 ([f85250f](https://github.com/nitoclub/nito-docs/commit/f85250f75215a23f994ba66f3e9cac576f0b6f64))
+* **deps:** update dependency @astrojs/starlight to v0.24.5 ([8037ee3](https://github.com/nitoclub/nito-docs/commit/8037ee3968bce72e1e3b897019d8ce632764f2ad))
+* **deps:** update dependency @astrojs/starlight to v0.25.0 ([59c1b0f](https://github.com/nitoclub/nito-docs/commit/59c1b0f79fcd498e362e6a8ea5d07ac65620d990))
+* **deps:** update dependency @astrojs/starlight to v0.25.1 ([9e00812](https://github.com/nitoclub/nito-docs/commit/9e0081274afb86d476d8facffdadf94a2e2f7b6a))
+* **deps:** update dependency astro to v4.10.0 ([e5a6e68](https://github.com/nitoclub/nito-docs/commit/e5a6e68971030ba71c98c7f5cb35724e02862950))
+* **deps:** update dependency astro to v4.10.1 ([d669bb8](https://github.com/nitoclub/nito-docs/commit/d669bb8a3ac3f4bcb229391543f49da7c58e2924))
+* **deps:** update dependency astro to v4.10.2 ([adc62ba](https://github.com/nitoclub/nito-docs/commit/adc62baffcb7a2f199da484bd1177ea8f1a1810f))
+* **deps:** update dependency astro to v4.10.3 ([be220db](https://github.com/nitoclub/nito-docs/commit/be220dbe39d62abfd2f74362589effabf2bc3e21))
+* **deps:** update dependency astro to v4.11.0 ([8c332cd](https://github.com/nitoclub/nito-docs/commit/8c332cd9bbab700218bd58ba0d2b078f282e204a))
+* **deps:** update dependency astro to v4.11.1 ([1e7332c](https://github.com/nitoclub/nito-docs/commit/1e7332c948ddd06f031548cc9530473253d7f3f1))
+* **deps:** update dependency astro to v4.11.2 ([71ba058](https://github.com/nitoclub/nito-docs/commit/71ba0586c5a6046a1696b76ef33632a495b0c61e))
+* **deps:** update dependency astro to v4.11.3 ([6c56705](https://github.com/nitoclub/nito-docs/commit/6c56705ab43d517be6e3bcfa552457db3a17b9c3))
+* **deps:** update dependency astro to v4.11.4 ([49c2c3f](https://github.com/nitoclub/nito-docs/commit/49c2c3f149ea5b98596ba500d6587f6a43142259))
+* **deps:** update dependency astro to v4.11.5 ([4494096](https://github.com/nitoclub/nito-docs/commit/449409679f83f7e2dd53f45f1832f22aca331721))
+* **deps:** update dependency astro to v4.11.6 ([d0b0018](https://github.com/nitoclub/nito-docs/commit/d0b001880b8e583fdb1412d9c8e28df137f8fe70))
+* **deps:** update dependency astro to v4.12.0 ([03c9f9a](https://github.com/nitoclub/nito-docs/commit/03c9f9ac33ae8145fa4a4779d89c9768f5731ccd))
+* **deps:** update dependency astro to v4.12.1 ([7d4d909](https://github.com/nitoclub/nito-docs/commit/7d4d90905298988a0b595d025362fb43e6b4d2d8))
+* **deps:** update dependency astro to v4.12.2 ([7ad9d77](https://github.com/nitoclub/nito-docs/commit/7ad9d77ce7f566a08b41a33b9afe605fac57c63d))
+* **deps:** update dependency astro to v4.8.5 ([79b7d89](https://github.com/nitoclub/nito-docs/commit/79b7d892bf0d260edfa720b10c31e2d1dfdca2f7))
+* **deps:** update dependency astro to v4.8.6 ([51da14f](https://github.com/nitoclub/nito-docs/commit/51da14fdf4f8cf7892326ec403c732261845427c))
+* **deps:** update dependency astro to v4.8.7 ([4979aa2](https://github.com/nitoclub/nito-docs/commit/4979aa21cd2923622d68018bf4733c851eb4c975))
+* **deps:** update dependency astro to v4.9.0 ([b1a301d](https://github.com/nitoclub/nito-docs/commit/b1a301d394cc83aaa82a574973ce60bef9ddb9e0))
+* **deps:** update dependency astro to v4.9.1 ([97a0834](https://github.com/nitoclub/nito-docs/commit/97a08341165dc387d3955c116809aba57967243a))
+* **deps:** update dependency astro to v4.9.2 ([5d7a39e](https://github.com/nitoclub/nito-docs/commit/5d7a39e4d2587cda7805098c0d3aaf8f2c49b5a1))
+* **deps:** update dependency astro to v4.9.3 ([87da953](https://github.com/nitoclub/nito-docs/commit/87da953f543ecdfebec36848de2bfaf1d201d708))
+* **deps:** update dependency sharp to v0.33.4 ([164e7ec](https://github.com/nitoclub/nito-docs/commit/164e7ecda5e6324233e1fc1c9fa74cb5e92aaf68))
+
 ## [0.4.6](https://github.com/nitoclub/nito-docs/compare/v0.4.5...v0.4.6) (2024-05-15)
 
 

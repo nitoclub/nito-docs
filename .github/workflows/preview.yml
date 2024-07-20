@@ -18,6 +18,7 @@ jobs:
     needs: changed
     if: needs.changed.outputs.docs == 'true'
     with:
+      project-name: 'nito-docs'
       branch: 'preview'
       gh-app-id: ${{ vars.BOT_APP_ID }}
       pr-comment-enabled: true

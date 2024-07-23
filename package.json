@@ -28,6 +28,6 @@
     "@commitlint/config-conventional": "19.2.2",
     "husky": "9.1.1",
     "plop": "4.0.1",
-    "typescript": "5.5.3"
+    "typescript": "5.5.4"
   }
 }

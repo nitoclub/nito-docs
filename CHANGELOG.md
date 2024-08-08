@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.4.8](https://github.com/nitoclub/nito-docs/compare/v0.4.7...v0.4.8) (2024-08-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @astrojs/check to v0.8.3 ([706716e](https://github.com/nitoclub/nito-docs/commit/706716e5d45dc6953d32c2998c4c5fb31954f042))
+* **deps:** update dependency @astrojs/check to v0.9.0 ([b9056e2](https://github.com/nitoclub/nito-docs/commit/b9056e25d08a4a005aad6cb3dc2080bca9b1fac8))
+* **deps:** update dependency @astrojs/check to v0.9.1 ([1c863b0](https://github.com/nitoclub/nito-docs/commit/1c863b0f96f600fd39148429c59b2e717c613eef))
+* **deps:** update dependency @astrojs/check to v0.9.2 ([e823cd6](https://github.com/nitoclub/nito-docs/commit/e823cd68908b223091f331d02c2bbef2c2be3401))
+* **deps:** update dependency @astrojs/starlight to v0.25.2 ([df6603b](https://github.com/nitoclub/nito-docs/commit/df6603bd0e44b927abd6e83ea8ad97cd37ff94aa))
+* **deps:** update dependency @astrojs/starlight to v0.25.3 ([759c8d8](https://github.com/nitoclub/nito-docs/commit/759c8d829c1c71a9bf0e2a88f0302182b22f46c7))
+* **deps:** update dependency @astrojs/starlight to v0.25.4 ([1e76b6e](https://github.com/nitoclub/nito-docs/commit/1e76b6ee16bf9c3c4d660ea2902e092ab3354db0))
+* **deps:** update dependency astro to v4.12.3 ([60c5b92](https://github.com/nitoclub/nito-docs/commit/60c5b92040174fb41e3346086ee38987fddf100f))
+* **deps:** update dependency astro to v4.13.0 ([ae016d4](https://github.com/nitoclub/nito-docs/commit/ae016d4e092a6f3ee93ac9340a432222740d60e8))
+* **deps:** update dependency astro to v4.13.1 ([eda946f](https://github.com/nitoclub/nito-docs/commit/eda946fe2952bf25ca8ccc6f327c01cd8a6f0773))
+* **deps:** update dependency astro to v4.13.2 ([95f5e08](https://github.com/nitoclub/nito-docs/commit/95f5e087b5e186c9566abb0bfd4e165d2daffdf9))
+
 ## [0.4.7](https://github.com/nitoclub/nito-docs/compare/v0.4.6...v0.4.7) (2024-07-20)
 
 

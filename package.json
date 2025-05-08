@@ -24,8 +24,8 @@
     "sharp": "0.34.1"
   },
   "devDependencies": {
-    "@commitlint/cli": "19.8.0",
-    "@commitlint/config-conventional": "19.8.0",
+    "@commitlint/cli": "19.8.1",
+    "@commitlint/config-conventional": "19.8.1",
     "husky": "9.1.7",
     "plop": "4.0.1",
     "typescript": "5.8.3"
